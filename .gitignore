@@ -1,0 +1,13 @@
+target/
+.*/
+.*
+**/demo/**
+!.gitignore
+deploy.sh
+credentials.json
+client_id.json
+google-tasks-api.html
+parts/google-api-oauth2-setup.html
+task-service/
+node_modules/
+package-lock.json/

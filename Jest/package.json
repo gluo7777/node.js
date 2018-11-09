@@ -1,0 +1,12 @@
+{
+    "name": "jest-examples",
+    "version": "1.0.0-SNAPSHOT",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gluo7777/node.js.git"
+    }
+}
