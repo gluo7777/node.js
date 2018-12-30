@@ -1,0 +1,14 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "ExpressJs demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "William Luo",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
